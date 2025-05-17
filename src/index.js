@@ -1,4 +1,3 @@
-import "./styles.css";
-import { greeting } from "./greeting.js";
+import { knightMoves } from "./knightMoves.js";
 
-console.log(greeting);
+
